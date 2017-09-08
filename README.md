@@ -14,7 +14,7 @@ This action sets a varialbe called "MouseLocation" to...the current mouse locati
 
 Pair this with the `Use Variable` action with the option `to set the mouse location` option.
 
-![Set MouseLocation](../example-images/Set MouseLocation.png)
+![Set MouseLocation](example-images/Set MouseLocation.png)
 
 ## Wait for Dialogs: Ready and Dismissed
 
@@ -24,11 +24,11 @@ Both rely on the state of the `Cancel` button. Every dialog should have a `Cance
 
 ### Wait for Dialog is Ready
 
-![Wait for Dialog is Ready](../example-images/Wait for Dialog is Ready.png)
+![Wait for Dialog is Ready](example-images/Wait for Dialog is Ready.png)
 
 ### Wait for Dialog is Dismissed
 
-![Wait for Dialog is Dismissed](../example-images/Wait for Dialog is Dismissed.png)
+![Wait for Dialog is Dismissed](example-images/Wait for Dialog is Dismissed.png)
 
 
 
