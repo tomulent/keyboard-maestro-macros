@@ -2,11 +2,19 @@
 
 # General Use Macros
 
+### Evernote Specific
 
+#### Evernote Paste Link With Text - Simple
+
+Brings up the link prompt and pastes in your system clipboard contents, then closes the prompt.
+
+![evernote-link-macro-simple](evernote-link-macro-simple.png)
 
 # Modular Macros
 
 These are not meant as standalone macros. They're to be kept in a collection called something like "Custom Actions" and then summoned in your other macros with the `Execute Macro` action.
+
+I would add them as plugin actions if I knew how to do that...
 
 ## Set MouseLocation
 
